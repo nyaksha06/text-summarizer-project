@@ -11,10 +11,10 @@ SRC_REPO = "text summarizer"
 AUTHOR_EMAIL = "nyaksha06@gmail.com"
 
 setuptools.setup(
-    name=REPO_NAME,
+    name="text-summarizer-project",
     version=__version__,
-    author=AUTHOR_USER_NAME,
-    author_email=AUTHOR_EMAIL,
+    author="nyaksha06",
+    author_email= "nyaksha06@gmail.com",
     description="A small Python package for NLP app",
     long_description=long_description,
     long_description_content_type="text/markdown",
